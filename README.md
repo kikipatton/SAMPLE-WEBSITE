@@ -6,27 +6,11 @@ But before we get there, I leave you with a breakthrough below.
 
 ### Breakthrough
 
+In the recent past, Television sets were a money making platform before Youtube was launched in the year 2005 and bought by Google for $1.6Billion. Today, Youtube is the biggest platform where advitesers, bloggers, Companies and also Governments use to reach out to people
 
+Inshort, social media marketing has become a goldmine for those seeking to achieve their goals.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is where I come in. 
 
 ### Jekyll Themes
 
